@@ -1,16 +1,16 @@
-## Hi there 👋
+# Gabrielle (Gaby) N. Altman
 
-<!--
-**gabrielle-altman/gabrielle-altman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bioinformatics data scientist and PhD candidate specializing in **biobank-scale statistical human genomics**, tandem repeat expansions, and multiomic integration.
 
-Here are some ideas to get you started:
+Thesis defense: October 1st, 2026
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔬 Currently working on TR expansion discovery at the [Icahn School of Medicine at Mount Sinai](https://icahn.mssm.edu/)
+
+🌐 **[Visit my website](https://gabrielle-altman.github.io)** for my full resume, publications, and projects
+
+### Tech Stack
+- **Languages**: R, Python, Bash
+- **Genomics**: GWAS, PheWAS, fine-mapping, RNA-seq
+- **Cloud**: GCP, AWS, Terra, DNAnexus
+
+📧 Get in touch: gabrielle.n.altman@gmail.com | [LinkedIn](https://linkedin.com/in/gabrielle-altman) | [ORCID](https://orcid.org/0000-0003-3556-1492)
