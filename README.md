@@ -1,10 +1,10 @@
 # Gabrielle (Gaby) N. Altman
 
-Bioinformatics data scientist and PhD candidate specializing in **biobank-scale statistical human genomics**, tandem repeat expansions, and multiomic integration.
+Bioinformatics data scientist and PhD candidate specializing in **biobank-scale statistical human genomics**, tandem repeat expansions (TREs), and multiomic integration.
 
 Thesis defense: October 1st, 2026
 
-🔬 Currently working on TR expansion discovery at the [Icahn School of Medicine at Mount Sinai](https://icahn.mssm.edu/)
+🔬 Currently working on TRE discovery at the [Icahn School of Medicine at Mount Sinai](https://icahn.mssm.edu/)
 
 🌐 **[Visit my website](https://gabrielle-altman.github.io)** for my full resume, publications, and projects
 
