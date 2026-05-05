@@ -11,6 +11,6 @@ Thesis defense: October 1st, 2026
 ### Skills
 - **Languages**: R, Python, Bash
 - **Genomics**: GWAS, PheWAS, fine-mapping, RNA-seq
-- **Cloud**: GCP, AWS, Terra, DNAnexus
+- **Cloud**: GCP, AWS, All of Us Researcher Workbench, DNAnexus
 
 📧 Get in touch: gabrielle.n.altman@gmail.com | [LinkedIn](https://linkedin.com/in/gabrielle-altman) | [ORCID](https://orcid.org/0000-0003-3556-1492)
