@@ -8,7 +8,7 @@ Thesis defense: October 1st, 2026
 
 🌐 **[Visit my website](https://gabrielle-altman.github.io)** for my full resume, publications, and projects
 
-### Tech Stack
+### Skills
 - **Languages**: R, Python, Bash
 - **Genomics**: GWAS, PheWAS, fine-mapping, RNA-seq
 - **Cloud**: GCP, AWS, Terra, DNAnexus
