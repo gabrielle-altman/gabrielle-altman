@@ -15,4 +15,4 @@ Currently working on TRE discovery at the [Icahn School of Medicine at Mount Sin
 - **Genomics**: GWAS, PheWAS, fine-mapping, RNA-seq
 - **Cloud**: GCP, AWS, All of Us Researcher Workbench, DNAnexus
 
-Get in touch: gabrielle.n.altman@gmail.com | [LinkedIn](https://linkedin.com/in/gabrielle-altman) | [ORCID](https://orcid.org/0000-0003-3556-1492)
+Get in touch: gabrielle.n.altman@gmail.com | [LinkedIn](https://linkedin.com/in/gabrielle-n-altman) | [ORCID](https://orcid.org/0000-0003-3556-1492)
