@@ -6,7 +6,7 @@ Thesis defense: October 1st, 2026
 
 Currently working on TRE discovery at the [Icahn School of Medicine at Mount Sinai](https://icahn.mssm.edu/)
 
-**🧬 Latest preprint:** Tandem repeat expansions in *DAPK1*, *ANK3*, and *RPL14* are associated with diverse neurodegenerative diseases — [medRxiv 2026](https://doi.org/10.64898/2026.08.06.26358503) (under revision)
+**🧬 Latest preprint:** Tandem repeat expansions in *DAPK1*, *ANK3*, and *RPL14* are associated with diverse neurodegenerative diseases — [medRxiv 2026](https://doi.org/10.64898/2026.08.06.26358503) (in revision)
 
 **[Visit my website](https://gabrielle-altman.github.io)** for my full resume, publications, and projects
 
