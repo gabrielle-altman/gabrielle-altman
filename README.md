@@ -1,12 +1,10 @@
-# Gabrielle (Gaby) N. Altman
+# Gabrielle (Gaby) N. Altman, PhD
 
-Bioinformatics data scientist and PhD candidate specializing in **biobank-scale statistical human genomics**, tandem repeat expansions (TREs), and multiomic integration.
+Bioinformatics data scientist and computational biologist specializing in **biobank-scale statistical human genomics**, tandem repeat expansions (TREs), and multiomic integration.
 
-Thesis defense: October 1st, 2026
+PhD in Biomedical Sciences, Icahn School of Medicine at Mount Sinai (defended October 2026)
 
-Currently working on TRE discovery at the [Icahn School of Medicine at Mount Sinai](https://icahn.mssm.edu/)
-
-**🧬 Latest preprint:** Tandem repeat expansions in *DAPK1*, *ANK3*, and *RPL14* are associated with diverse neurodegenerative diseases — [medRxiv 2026](https://doi.org/10.64898/2026.08.06.26358503) (in revision)
+**🧬 Latest preprint:** Tandem repeat expansions in *DAPK1*, *ANK3*, and *RPL14* are associated with diverse neurodegenerative diseases — [medRxiv 2026](https://doi.org/10.64898/2026.08.06.26358503) (resubmitted after revision)
 
 **[Visit my website](https://gabrielle-altman.github.io)** for my full resume, publications, and projects
 
